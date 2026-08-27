@@ -1,0 +1,12 @@
+{
+  "name": "yash-simple-calculator1",
+  "version": "1.0.0",
+  "description": "calculator",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

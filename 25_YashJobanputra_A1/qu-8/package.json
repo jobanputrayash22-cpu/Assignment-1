@@ -1,0 +1,17 @@
+{
+  "name": "qu-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+   "scripts": {
+    "start": "node app.js",
+    "test": "node test.js",
+    "hello": "node -e \"console.log('Hello User Script')\"",
+    "info": "node -e \"console.log('NodeJS Application')\"",
+    "welcome": "node -e \"console.log('Welcome to NodeJS')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
